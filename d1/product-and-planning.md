@@ -78,11 +78,20 @@ Communications:
  * If you have a partner project, what is your process (in detail) for communicating with your partner?
  
 Meetings:
- * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
+* Team members are expected to reply to conversation threads regularly and keep involved partners/co-workers up-to-date on their progress every week through e-message.
+* Additionally, an impromptu meeting that highlights the current project goals and accomplishments as well as next steps will take place every Monday from 9-9:30pm.
+* If necessary, an additional meeting will be scheduled (with team members notified well in advance) on Wednesdays from 6-7pm.
  
 Conflict Resolution:
- * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Any other scenarios you can think of?
+If a team member is not completing their assigned work on time...
+* It is their duty to contact the team members with a valid reason why and to complete the work within the next few days
+* If the problem grows, their work may be reassigned to another member and a meeting scheduled to discuss the problematic team members role moving forward
+* A TA may be consulted if the problem persists and work is not getting done.
 
+If a team member does not reply to conversation threads or direct messages for an extended period of time or continuous basis...
+If a team member submits sub-par work that does not meet the requirements set...
+If a team member does not attend scheduled meetings on a continuous basis...
+If two or more team members disagree/reach an impasse for a design choice/decision...
 
 #### Events
 
